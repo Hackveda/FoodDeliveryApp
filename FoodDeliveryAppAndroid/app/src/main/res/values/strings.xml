@@ -1,0 +1,109 @@
+<resources>
+	
+	<!-- Project level resources -->
+	<string name="app_name">FoodDeliveryAppAndroid</string>
+	
+	<!-- Resources for AActivity -->
+	<string name="aactivity_quattro_stagioni_text_view_hint">Quattro stagioni</string>
+	<string name="aactivity_pizza_three_text_view_hint">Pizza</string>
+	<string name="aactivity_pizza_four_text_view_hint">Pizza</string>
+	<string name="aactivity_text_view_four_text_view_text">9,50</string>
+	<string name="aactivity_healthy_food_text_view_text">Healthy food</string>
+	<string name="aactivity_pizza_two_text_view_text">Pizza</string>
+	<string name="aactivity_let_seat_what_you_wtext_view_text">Let\'s eat what you want!</string>
+	<string name="aactivity_text_view_three_text_view_text">$</string>
+	<string name="aactivity_all_text_view_hint">All</string>
+	<string name="aactivity_margherita_text_view_text">Margherita</string>
+	<string name="aactivity_see_all_text_view_text">See all</string>
+	<string name="aactivity_text_view_five_text_view_hint">$</string>
+	<string name="aactivity_text_view_three_text_view_hint">$</string>
+	<string name="aactivity_bacon_text_view_hint">Bacon</string>
+	<string name="aactivity_let_seat_what_you_wtext_view_hint">Let\'s eat what you want!</string>
+	<string name="aactivity_text_view_two_text_view_hint">7,50</string>
+	<string name="aactivity_burger_text_view_hint">Burger</string>
+	<string name="aactivity_pasta_text_view_text">Pasta</string>
+	<string name="aactivity_text_view_six_text_view_hint">8,50</string>
+	<string name="aactivity_bacon_text_view_text">Bacon</string>
+	<string name="aactivity_text_view_text_view_hint">$</string>
+	<string name="aactivity_pizza_text_view_text">Pizza</string>
+	<string name="aactivity_text_view_four_text_view_hint">9,50</string>
+	<string name="aactivity_text_view_two_text_view_text">7,50</string>
+	<string name="aactivity_text_view_six_text_view_text">8,50</string>
+	<string name="aactivity_margherita_text_view_hint">Margherita</string>
+	<string name="aactivity_pizza_two_text_view_hint">Pizza</string>
+	<string name="aactivity_healthy_food_text_view_hint">Healthy food</string>
+	<string name="aactivity_text_view_five_text_view_text">$</string>
+	<string name="aactivity_text_view_text_view_text">$</string>
+	<string name="aactivity_pizza_four_text_view_text">Pizza</string>
+	<string name="aactivity_pizza_text_view_hint">Pizza</string>
+	<string name="aactivity_pizza_three_text_view_text">Pizza</string>
+	<string name="aactivity_pasta_text_view_hint">Pasta</string>
+	<string name="aactivity_marinara_text_view_hint">Marinara</string>
+	<string name="aactivity_see_all_text_view_hint">See all</string>
+	<string name="aactivity_all_text_view_text">All</string>
+	<string name="aactivity_marinara_text_view_text">Marinara</string>
+	<string name="aactivity_popular_text_view_text">Popular</string>
+	<string name="aactivity_burger_text_view_text">Burger</string>
+	<string name="aactivity_popular_text_view_hint">Popular</string>
+	<string name="aactivity_quattro_stagioni_text_view_text">Quattro stagioni</string>
+	
+	<!-- Resources for CActivity -->
+	<string name="cactivity_text_view_text_view_text">$119.12</string>
+	<string name="cactivity_pizza_two_text_view_hint">Pizza</string>
+	<string name="cactivity_pizza_text_view_text">Pizza</string>
+	<string name="cactivity_pizza_four_text_view_text">Pizza</string>
+	<string name="cactivity_pizza_three_text_view_hint">Pizza</string>
+	<string name="cactivity_text_view_eight_text_view_hint">2</string>
+	<string name="cactivity_text_view_three_text_view_hint">$59.32</string>
+	<string name="cactivity_sun_urab_text_view_hint">Sun Urab</string>
+	<string name="cactivity_gado_gado_text_view_hint">Gado Gado</string>
+	<string name="cactivity_text_view_four_text_view_hint">$117.95</string>
+	<string name="cactivity_cart_text_view_text">Cart</string>
+	<string name="cactivity_total_items4_text_view_hint">Total Items (4)</string>
+	<string name="cactivity_price59050_text_view_hint">Price : $590.50</string>
+	<string name="cactivity_price59050_text_view_text">Price : $590.50</string>
+	<string name="cactivity_text_view_two_text_view_hint">$178.35</string>
+	<string name="cactivity_gado_gado_text_view_text">Gado Gado</string>
+	<string name="cactivity_text_view_four_text_view_text">$117.95</string>
+	<string name="cactivity_moon_pecel_text_view_hint">Moon Pecel</string>
+	<string name="cactivity_text_view_two_text_view_text">$178.35</string>
+	<string name="cactivity_total_items4_text_view_text">Total Items (4)</string>
+	<string name="cactivity_cart_text_view_hint">Cart</string>
+	<string name="cactivity_text_view_six_text_view_hint">2</string>
+	<string name="cactivity_moon_pecel_text_view_text">Moon Pecel</string>
+	<string name="cactivity_sun_urab_text_view_text">Sun Urab</string>
+	<string name="cactivity_text_view_five_text_view_text">3</string>
+	<string name="cactivity_text_view_seven_text_view_hint">1</string>
+	<string name="cactivity_text_view_three_text_view_text">$59.32</string>
+	<string name="cactivity_text_view_text_view_hint">$119.12</string>
+	<string name="cactivity_pizza_three_text_view_text">Pizza</string>
+	<string name="cactivity_text_view_eight_text_view_text">2</string>
+	<string name="cactivity_checkout_text_view_text">Checkout</string>
+	<string name="cactivity_checkout_text_view_hint">Checkout</string>
+	<string name="cactivity_text_view_seven_text_view_text">1</string>
+	<string name="cactivity_pizza_four_text_view_hint">Pizza</string>
+	<string name="cactivity_text_view_five_text_view_hint">3</string>
+	<string name="cactivity_marinara_text_view_text">Marinara</string>
+	<string name="cactivity_pizza_two_text_view_text">Pizza</string>
+	<string name="cactivity_marinara_text_view_hint">Marinara</string>
+	<string name="cactivity_text_view_six_text_view_text">2</string>
+	<string name="cactivity_pizza_text_view_hint">Pizza</string>
+	
+	<!-- Resources for BActivity -->
+	<string name="bactivity_a_widespread_belief_text_view_hint">A widespread belief says that in June 1889 the pizzaiolo Raffaele Esposito, Pizzeria Brandi\'s chef, invented a dish called &quot;Pizza Margherita ...\nRead More</string>
+	<string name="bactivity_s_text_view_hint">S</string>
+	<string name="bactivity_a_widespread_belief_text_view_text">A widespread belief says that in June 1889 the pizzaiolo Raffaele Esposito, Pizzeria Brandi\'s chef, invented a dish called &quot;Pizza Margherita ...\nRead More</string>
+	<string name="bactivity_margherita_text_view_hint">Margherita</string>
+	<string name="bactivity_pizza_text_view_hint">Pizza</string>
+	<string name="bactivity_m_text_view_hint">M</string>
+	<string name="bactivity_m_text_view_text">M</string>
+	<string name="bactivity_text_view_text_view_text">$9.50</string>
+	<string name="bactivity_add_to_cart_text_view_hint">Add to Cart</string>
+	<string name="bactivity_add_to_cart_text_view_text">Add to Cart</string>
+	<string name="bactivity_l_text_view_text">L</string>
+	<string name="bactivity_pizza_text_view_text">Pizza</string>
+	<string name="bactivity_l_text_view_hint">L</string>
+	<string name="bactivity_s_text_view_text">S</string>
+	<string name="bactivity_margherita_text_view_text">Margherita</string>
+	<string name="bactivity_text_view_text_view_hint">$9.50</string>
+</resources>
