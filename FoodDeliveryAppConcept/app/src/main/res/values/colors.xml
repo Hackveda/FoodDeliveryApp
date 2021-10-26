@@ -1,0 +1,39 @@
+<resources>
+	
+	<!-- Project level resources -->
+	<color name="color_hint_text">#D0D1D5</color>
+	<color name="material_bottom_sheet_item">#000000DE</color>
+	<color name="color_accent">#000000</color>
+	<color name="color_click_overlay">#555555</color>
+	<color name="color_primary">#000000</color>
+	<color name="color_primary_dark">#000000</color>
+	<color name="material_bottom_sheet_title">#0000008A</color>
+	
+	<!-- Resources for AActivity -->
+	<color name="aactivity_pizza_three_text_view_text_color">#B3B4A3</color>
+	<color name="aactivity_search_constraint_layout_border_color">#0D000000</color>
+	<color name="aactivity_pizza_four_text_view_text_color">#B3B4A3</color>
+	<color name="aactivity_pizza_text_view_text_color">#B3B4A3</color>
+	<color name="aactivity_constraint_layout_constraint_layout_background_color">#FFFFFF</color>
+	
+	<!-- Resources for CActivity -->
+	<color name="cactivity_sun_urab_text_view_text_color">#4F4F4F</color>
+	<color name="cactivity_gado_gado_text_view_text_color">#4F4F4F</color>
+	<color name="cactivity_back_constraint_layout_border_color">#F4F4F4</color>
+	<color name="cactivity_constraint_layout_constraint_layout_background_color">#FFFFFF</color>
+	<color name="cactivity_moon_pecel_text_view_text_color">#4F4F4F</color>
+	<color name="cactivity_marinara_text_view_text_color">#4F4F4F</color>
+	<color name="cactivity_checkout_text_view_text_color">#FFFFFF</color>
+	<color name="cactivity_more_constraint_layout_border_color">#F4F4F4</color>
+	
+	<!-- Resources for BActivity -->
+	<color name="bactivity_a_widespread_belief_text_view_text_color">#BDBDBD</color>
+	<color name="bactivity_group21_constraint_layout_border_color">#4D000000</color>
+	<color name="bactivity_constraint_layout_constraint_layout_background_color">#FFFFFF</color>
+	<color name="bactivity_group20_constraint_layout_border_color">#FF8074</color>
+	<color name="bactivity_add_to_cart_text_view_text_color">#FFFFFF</color>
+	<color name="bactivity_group22_constraint_layout_border_color">#4D000000</color>
+	<color name="bactivity_group7_constraint_layout_border_color">#0D000000</color>
+	<color name="bactivity_rectangle4_constraint_layout_border_color">#0D000000</color>
+	<color name="bactivity_s_text_view_text_color">#FF8074</color>
+</resources>

@@ -1,0 +1,8 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<stroke
+		android:color="@color/bactivity_group20_constraint_layout_border_color"
+		android:width="@dimen/bactivity_group20_constraint_layout_border_size"/>
+
+	<corners android:radius="@dimen/bactivity_group20_constraint_layout_radius"/>
+</shape>
